@@ -383,6 +383,9 @@ border-radius:5%;
 a:hover {
 	cursor: pointer;
   }
+  .pad{
+	  padding:20px;
+  }
 @media(max-width:1000px){
 	*{
 		box-sizing: border-box;
