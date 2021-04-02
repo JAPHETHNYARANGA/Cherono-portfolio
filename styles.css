@@ -372,6 +372,17 @@ footer{
 	font-size:20px;
 	color:#2B2B2B;
 }
+.joo{
+	background-color: black;
+color: white;
+padding: 1em 1em;
+text-decoration: none;
+text-transform: uppercase;
+border-radius:5%;
+}
+a:hover {
+	cursor: pointer;
+  }
 @media(max-width:1000px){
 	*{
 		box-sizing: border-box;
@@ -437,6 +448,8 @@ footer{
 		text-decoration: none;
 		color:white;
 	}
+
+	
 }
 @media(max-width:750px){
 	section{
